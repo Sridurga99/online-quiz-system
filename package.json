@@ -1,0 +1,13 @@
+{
+  "name": "online-quiz-system",
+  "version": "1.0.0",
+  "description": "Online Quiz System Web Application",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo Running quiz system tests"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
